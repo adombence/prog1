@@ -1,0 +1,7 @@
+narancs:	6Ft
+alma:	10Ft
+korte:	20Ft
+szilva:	800Ft
+banan:	4000Ft
+meggy:	5000Ft
+mandarin:	60000Ft

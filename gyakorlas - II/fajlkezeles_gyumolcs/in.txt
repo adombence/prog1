@@ -1,0 +1,7 @@
+korte    1kg    20Ft/kg
+alma  10kg   1Ft/kg
+narancs 2kg   3Ft/kg
+szilva     2kg  400Ft/kg
+banan  1kg     4000Ft/kg
+meggy 10kg     500Ft/kg
+mandarin 3kg    20000Ft/kg
